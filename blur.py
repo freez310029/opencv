@@ -15,4 +15,3 @@ plt.xticks([]), plt.yticks([])
 plt.subplot(122),plt.imshow(blur),plt.title('Blurred')
 plt.xticks([]), plt.yticks([])
 plt.show()
-
